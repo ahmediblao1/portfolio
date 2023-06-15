@@ -61,9 +61,9 @@ export const SideBar = () => {
         initial={{ x: -70 }}
         animate={{ x: 0 }}
         transition={{ duration: 0.5, delay: 0.3 }}
-        href="#experience"
-        onClick={() => setSelected("experience")}
-        className={selected === "experience" ? styles.selected : ""}
+        href="#Contact"
+        onClick={() => setSelected("Contact")}
+        className={selected === "Contact" ? styles.selected : ""}
       >
         {/* Exp.
       </motion.a>
