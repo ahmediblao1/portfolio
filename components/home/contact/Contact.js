@@ -16,14 +16,14 @@ export const Contact = () => {
           <p className={styles.contactCopy}>
             Shoot me an email if you want to connect! You can also find me on{" "}
             <Link
-              href="https://www.linkedin.com"
+              href="https://www.linkedin.com/in/ahmed-iblao-076324267/"
               target="_blank"
               rel="nofollow"
             >
               Linkedin
             </Link>{" "}
             or{" "}
-            <Link href="https://www.twitter.com" target="_blank" rel="nofollow">
+            <Link href="https://twitter.com/iblao8" target="_blank" rel="nofollow" >
               Twitter
             </Link>{" "}
             if that&apos;s more your style.
