@@ -8,7 +8,7 @@ export default function home() {
         <title>Ahmed iblao </title>
         <meta name="description" content="Ahmed iblao" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="icon" href="/AI-logo.png" />
+        <link rel="icon" href="/AI Logo.png" />
       </Head>
       <Home />
     </>
