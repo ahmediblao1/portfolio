@@ -45,8 +45,7 @@ export const Reveal = ({ children, width = "fit-content" }) => {
           bottom: 4,
           left: 0,
           right: 0,
-          background: "",
-          backdropFilter: "blur(12px)",
+          background: "var(--brand)",
           zIndex: 20,
         }}
       />
