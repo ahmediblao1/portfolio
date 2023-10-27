@@ -52,44 +52,36 @@ const projects = [
   //     </>
   //   ),
   // },
-  // {
-  //   title: "The Canvas Club",
-  //   imgSrc: "project-imgs/example-project.jpg",
-  //   code: "https://www.github.com",
-  //   projectLink: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-  //   tech: ["Node", "Express", "Postgres", "Kafka", "Redis"],
-  //   description:
-  //     "A social community for painters to connect with others in their community. I handle everything backend (50K monthly active users).",
-  //   modalContent: (
-  //     <>
-  //       <p>
-  //         The Canvas Club is a social community for painters to connect with
-  //         others in their community.
-  //       </p>
-  //       <p>
-  //         I work primarily on the backend, a collection of Node & Express
-  //         microservices. Data is stored primarily in Postgres & cached in Redis.
-  //       </p>
-  //       <p>
-  //         The team in total consists of 5 developers. This is a passion project
-  //         for all of us.
-  //       </p>
-  //       <p>
-  //         Because this isn&apos;t real, here&apos;s some gibberish to fill space{" "}
-  //         {":)"}
-  //       </p>
-  //       <p>
-  //         Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aspernatur
-  //         quia officia odio nulla consectetur aperiam ad tempora magni magnam
-  //         nesciunt.
-  //       </p>
-  //       <p>
-  //         Fuga id sapiente facere ipsa eius exercitationem officiis deleniti,
-  //         rerum dolorum. Deserunt soluta modi culpa animi.
-  //       </p>
-  //     </>
-  //   ),
-  // },
+   {
+    title: "Cinemy",
+    imgSrc: "project-imgs/cinemy.jpg",
+    code: "https://github.com/ahmediblao1/Cinemy",
+    projectLink: "https://ahmediblao1.github.io/Cinemy/main.html",
+    tech: ["Node", "HTML", "Postgres", "CSS" , "js", "Redis"],
+    description:
+      "Cinemy is a fully responsive movies website, Responsive for all devices).",
+    modalContent: (
+      <>
+        <p>
+        because every movie has a story to tell, and we re here to bring them to you, one click at a time.
+        </p>
+        <p>
+        Our movie website is your portal to the magical world of film,
+        </p>
+        <p>
+        where storytelling transcends boundaries and emotions are captured frame by frame.
+        </p>
+        <p>
+        Dive into a treasure trove of blockbusters, indie gems, and timeless classics. 
+        Immerse yourself in a reel adventure, explore the stars, and discover the unseen {":)"}
+        </p>
+        <p>
+        Get ready for an unforgettable journey through the art of storytelling – because every movie has a story to tell, 
+        and we are here to bring them to you, one click at a time.        </p>
+       
+      </>
+    ),
+  },
   {
     title: "Ridezy",
     imgSrc: "project-imgs/web1.jpg",
