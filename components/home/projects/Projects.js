@@ -17,41 +17,41 @@ export const Projects = () => {
 };
 
 const projects = [
-  // {
-  //   title: "Paint.app",
-  //   imgSrc: ".jpg",
-  //   code: "https://www.github.com",
-  //   projectLink: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-  //   tech: ["Flutter", "MUI", "Python", "FastAPI"],
-  //   description:
-  //     "A real-time coaching app for students learning to paint. This app is my baby, designed and built on my own.",
-  //   modalContent: (
-  //     <>
-  //       <p>
-  //         Pain.app is a real-time coaching app for students learning to paint.
-  //         This app is my baby, designed and built on my own.
-  //       </p>
-  //       <p>
-  //         The tech stack is based on top of Flutter for the mobile app,
-  //         connected to a Python & FastAPI backend, with data stored in Postgres,
-  //         deployed on Heroku.
-  //       </p>
-  //       <p>
-  //         Because this isn&apos;t real, here&apos;s some gibberish to fill space{" "}
-  //         {":)"}
-  //       </p>
-  //       <p>
-  //         Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aspernatur
-  //         quia officia odio nulla consectetur aperiam ad tempora magni magnam
-  //         nesciunt.
-  //       </p>
-  //       <p>
-  //         Fuga id sapiente facere ipsa eius exercitationem officiis deleniti,
-  //         rerum dolorum. Deserunt soluta modi culpa animi.
-  //       </p>
-  //     </>
-  //   ),
-  // },
+  {
+    title: "Paint.app",
+    imgSrc: ".jpg",
+    code: "https://github.com/ahmediblao1/VibeX",
+    projectLink: "vibe-x-roan.vercel.app",
+    tech: ["Flutter", "MUI", "Python", "FastAPI"],
+    description:
+      "A real-time coaching app for students learning to paint. This app is my baby, designed and built on my own.",
+    modalContent: (
+      <>
+        <p>
+          Pain.app is a real-time coaching app for students learning to paint.
+          This app is my baby, designed and built on my own.
+        </p>
+        <p>
+          The tech stack is based on top of Flutter for the mobile app,
+          connected to a Python & FastAPI backend, with data stored in Postgres,
+          deployed on Heroku.
+        </p>
+        <p>
+          Because this isn&apos;t real, here&apos;s some gibberish to fill space{" "}
+          {":)"}
+        </p>
+        <p>
+          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aspernatur
+          quia officia odio nulla consectetur aperiam ad tempora magni magnam
+          nesciunt.
+        </p>
+        <p>
+          Fuga id sapiente facere ipsa eius exercitationem officiis deleniti,
+          rerum dolorum. Deserunt soluta modi culpa animi.
+        </p>
+      </>
+    ),
+  },
    {
     title: "Cinemy",
     imgSrc: "project-imgs/cinemy.jpg",
