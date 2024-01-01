@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 import { SectionHeader } from "@/components/utils/SectionHeader";
 import { Project } from "./Project";
 import styles from "./projects.module.scss";
@@ -18,8 +19,8 @@ export const Projects = () => {
 
 const projects = [
   {
-    title: "Paint.app",
-    imgSrc: ".jpg",
+    title: "VibeX",
+    imgSrc: "project-imgs/vibex.jpg",
     code: "https://github.com/ahmediblao1/VibeX",
     projectLink: "vibe-x-roan.vercel.app",
     tech: ["React js", "Tailwind", "Redux", "RapidAPI"],
@@ -27,29 +28,21 @@ const projects = [
       "advanced music player . With a modern homepage, fully-fledged music player, search, lyrics, song exploration features, search, popular music around you, worldwide top charts, and much more..",
     modalContent: (
       <>
-        <p>
-          Pain.app is a real-time coaching app for students learning to paint.
-          This app is my baby, designed and built on my own.
-        </p>
-        <p>
-          The tech stack is based on top of Flutter for the mobile app,
-          connected to a Python & FastAPI backend, with data stored in Postgres,
-          deployed on Heroku.
-        </p>
-        <p>
-          Because this isn&apos;t real, here&apos;s some gibberish to fill space{" "}
-          {":)"}
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aspernatur
-          quia officia odio nulla consectetur aperiam ad tempora magni magnam
-          nesciunt.
-        </p>
-        <p>
-          Fuga id sapiente facere ipsa eius exercitationem officiis deleniti,
-          rerum dolorum. Deserunt soluta modi culpa animi.
-        </p>
-      </>
+  <p>
+    Vibex is an advanced music player app built using a powerful stack of technologies to deliver an unparalleled music listening experience. Developed with React.js, Tailwind CSS, Redux, and integrated with the expansive capabilities of RapidAPI, Vibex is a testament to the fusion of cutting-edge frameworks and APIs for a seamless and feature-rich music player.
+  </p>
+  <p>
+    Crafted with precision in React.js, the app ensures a responsive and dynamic user interface. Tailwind CSS adds a touch of modern styling, providing an aesthetic and user-friendly design. Redux, as the state management library, enables efficient data flow, ensuring a smooth and interactive user experience.
+  </p>
+  <p>
+    Vibex leverages the power of RapidAPI to enrich its features, allowing users to seamlessly explore and enjoy a vast collection of music. From real-time lyrics display to song exploration and global top charts, the integration with RapidAPI enhances the app's functionality and data offerings.
+  </p>
+  <p>
+    Immerse yourself in the world of Vibex, where React.js, Tailwind CSS, Redux, and RapidAPI converge to create an advanced music player that goes beyond the ordinary.
+  </p>
+</>
+
+        
     ),
   },
    {
