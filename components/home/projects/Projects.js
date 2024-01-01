@@ -22,9 +22,9 @@ const projects = [
     imgSrc: ".jpg",
     code: "https://github.com/ahmediblao1/VibeX",
     projectLink: "vibe-x-roan.vercel.app",
-    tech: ["Flutter", "MUI", "Python", "FastAPI"],
+    tech: ["React js", "Tailwind", "Redux", "RapidAPI"],
     description:
-      "A real-time coaching app for students learning to paint. This app is my baby, designed and built on my own.",
+      "advanced music player . With a modern homepage, fully-fledged music player, search, lyrics, song exploration features, search, popular music around you, worldwide top charts, and much more..",
     modalContent: (
       <>
         <p>
