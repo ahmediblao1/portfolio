@@ -22,10 +22,10 @@
   --brand: rgb(49, 216, 147); */
 
 
-  --background: rgba(255, 255, 255, 255);
+  --background: rgb(255, 255, 255);
   --bg-opaque: rgba(255, 255, 255, 0.25);
-  --background-light: rgba(255, 255, 255, 255);
-  --background-dark: rgba(255, 255, 255, 255);
+  --background-light: rgb(255, 255, 255);
+  --background-dark: rgb(255, 255, 255);
 
   --text: rgb(0, 0, 0,);
   --brand: rgb(0, 0, 0,);
