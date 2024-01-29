@@ -22,14 +22,21 @@
   --brand: rgb(49, 216, 147); */
 
 
-  --background: rgba(4, 59, 29, 1);
+  --background: rgba(255, 255, 255, 255);
+  --bg-opaque: rgba(255, 255, 255, 0.25);
+  --background-light: rgba(255, 255, 255, 255);
+  --background-dark: rgba(255, 255, 255, 255);
+
+  --text: rgb(0, 0, 0,);
+  --brand: rgb(0, 0, 0,);
+
+/*   --background: rgba(4, 59, 29, 1);
   --bg-opaque: rgba(4, 59, 29, 0.25);
   --background-light: rgba(4, 59, 29, 1);
   --background-dark: rgba(4, 59, 29, 1);
 
   --text: rgba(252, 180, 4, 1);
-  --brand: rgba(252, 180, 4, 1);
-
+  --brand: rgba(252, 180, 4, 1); */
 
   --text-xs: 1.6rem;
   --text-sm: 1.8rem;
