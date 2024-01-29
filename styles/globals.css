@@ -22,7 +22,7 @@
   --brand: rgb(49, 216, 147); */
 
 
-  --background: rgb(255, 255, 255);
+  --background: rgba(4, 59, 29, 1);
   --bg-opaque: rgba(255, 255, 255, 0.25);
   --background-light: rgb(255, 255, 255);
   --background-dark: rgb(255, 255, 255);
