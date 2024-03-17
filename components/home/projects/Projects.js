@@ -46,34 +46,35 @@ const projects = [
     ),
   },
   {
-    title: "Cinemy",
-    imgSrc: "project-imgs/cinemy.jpg",
-    code: "https://github.com/ahmediblao1/Cinemy",
-    projectLink: "https://ahmediblao1.github.io/Cinemy/main.html",
-    tech: ["Node", "HTML", "Postgres", "CSS", "js", "Redis"],
-    description:
-      "Cinemy is a fully responsive movies website, Responsive for all devices).",
-    modalContent: (
-      <>
-        <p>
-          because every movie has a story to tell, and we re here to bring them to you, one click at a time.
-        </p>
-        <p>
-          Our movie website is your portal to the magical world of film,
-        </p>
-        <p>
-          where storytelling transcends boundaries and emotions are captured frame by frame.
-        </p>
-        <p>
-          Dive into a treasure trove of blockbusters, indie gems, and timeless classics.
-          Immerse yourself in a reel adventure, explore the stars, and discover the unseen {":)"}
-        </p>
-        <p>
-          Get ready for an unforgettable journey through the art of storytelling – because every movie has a story to tell,
-          and we are here to bring them to you, one click at a time.        </p>
+    title: "Glint AI",
+    imgSrc: "project-imgs/glint.jpg",
+    code: "https://github.com/ahmediblao1/saas-ai",
+    projectLink: "https://glint-ai.vercel.app",
+    tech: ["Next.js 13", "React", "Tailwind", "Prisma", "Stripe "],
+    description: "Glint AI is an all-encompassing AI platform, designed to be fully responsive and tailored for all devices.",
 
-      </>
-    ),
+modalContent: (
+  <>
+    <p>
+      Because every innovation starts with an idea, and we're here to bring your ideas to life, one line of code at a time.
+    </p>
+    <p>
+      Our AI platform is your gateway to the future of digital creation,
+    </p>
+    <p>
+      where imagination meets technology and ideas are transformed into reality, piece by piece.
+    </p>
+    <p>
+      Dive into an expansive suite of AI tools, from generating stunning images to composing music, crafting videos, and beyond. Engage with an intelligent chatbot, or streamline your coding process with our advanced code generators.
+    </p>
+    <p>
+      Embark on a journey of innovation, explore the possibilities, and uncover the unseen {":)"}
+    </p>
+    <p>
+      Get ready for an extraordinary adventure through the landscape of AI – because every project has a story to tell, and we are here to help you narrate it, one click at a time.
+    </p>
+  </>
+),
   },
   {
     title: "Ridezy",
